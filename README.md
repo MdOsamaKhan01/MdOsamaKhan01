@@ -1,66 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Md Osama Khan - GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #333;
-        }
-        a {
-            color: #0073b1;
-            text-decoration: none;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Hi there, I'm Md Osama Khan! 👋</h1>
-        <h2>🚀 Data Science Enthusiast | Aspiring Data Scientist</h2>
-        <p>I'm a passionate Data Science student with a keen interest in AI, Machine Learning, and Big Data technologies. Currently exploring tools like MongoDB, SQL, MySQL, Advanced Excel, and Python.</p>
-        
-        <h2>🛠️ Tech Stack & Tools:</h2>
-        <ul>
-            <li><strong>Programming:</strong> Python, SQL, R</li>
-            <li><strong>Databases:</strong> MongoDB, MySQL</li>
-            <li><strong>Big Data:</strong> Hadoop</li>
-            <li><strong>Analytics & Visualization:</strong> Pandas, NumPy, Matplotlib, Power BI, Excel</li>
-            <li><strong>Machine Learning:</strong> Scikit-learn, TensorFlow, PyTorch</li>
-            <li><strong>Version Control:</strong> Git, GitHub</li>
-            <li><strong>Other Tools:</strong> Jupyter Notebook, Google Colab</li>
-        </ul>
-        
-        <h2>📌 Currently Learning:</h2>
-        <ul>
-            <li>Deep Learning & Neural Networks 🤖</li>
-            <li>Big Data Processing with Hadoop & Spark 📊</li>
-            <li>Advanced SQL & MongoDB 📂</li>
-        </ul>
-        
-        <h2>📫 Let's Connect:</h2>
-        <p>
-            <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> | 
-            <a href="https://github.com/mdosamakhan">GitHub</a>
-        </p>
-        <p>📧 Email: your.email@example.com</p>
-        
-        <h2>⚡ Fun Fact:</h2>
-        <p>💡 Data is the new oil, and I'm here to refine it!</p>
-        <p>🔥 Always eager to learn and collaborate on data-driven projects!</p>
-    </div>
-</body>
-</html>
+<h1 align="center">Hi, I'm Osama Khan</h1>
+<h3 align="center">A Passionate Data Analyst from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gitanzeem46&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+### About Me
+- I’m currently learning **SQL | PYTHON | EXCEL | ML | DL | AWS | NLP | ANN | POWER BI**
+- How to reach me: **kmdosama511@gmail.com**
+
+---
+
+### Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/tanzeem-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://kaggle.com/codewithtanzeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+  <a href="https://instagram.com/codewithtanzeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+---
+
+### Languages, Tools, & Libraries
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
+  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+</p>
+
+---
+
+### Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+---
+
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitanzeem46&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitanzeem46&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
